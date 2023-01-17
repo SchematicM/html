@@ -1,0 +1,35 @@
+body{
+    background-image: radial-gradient(red, green, yellow);;
+}
+ul{
+    background-color: cornflowerblue;
+    border-radius: 50px;
+}
+
+blockquote{
+    background-color: #eacea9;
+    border-radius: 20px;
+    color: blue;
+}
+p{
+    background-color: aqua;
+    border-radius: 10px;
+    border: darkblue;
+
+}
+h1,h2{
+    background-color: yellow;
+    color: blue;
+    border-radius: 30px;
+    width: 300px;
+    text-align: center;
+
+}
+
+img{
+    max-width: 400px;
+    min-width: 200px;
+    max-height: 400px;
+}
+
+
