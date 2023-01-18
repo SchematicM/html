@@ -5,7 +5,8 @@ body {
 ul {
     background-color: cornflowerblue;
     border-radius: 50px;
-
+    margin-left: 10vw;
+    width: 70vw;
 }
 
 blockquote {
@@ -19,6 +20,7 @@ p {
     background-color: aqua;
     border-radius: 10px;
     padding: 20px;
+    max-resolution: res;
 
 }
 
