@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0070c4c4-f0a3-4863-806c-e187a5b6cd25" name="Changes" comment="[lesson1]: Added images">
+    <list default="true" id="0070c4c4-f0a3-4863-806c-e187a5b6cd25" name="Changes" comment="[lesson1]: made links opened in new tab">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/styles/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +60,7 @@
       <updated>1673984517313</updated>
       <workItem from="1673984518311" duration="5348000" />
       <workItem from="1674037854975" duration="17000" />
+      <workItem from="1674063611957" duration="423000" />
     </task>
     <task id="LOCAL-00001" summary="[lesson1]: Created Simpson Family page with appropriate styles">
       <created>1673989167549</created>
@@ -74,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673989377303</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="[lesson1]: made links opened in new tab">
+      <created>1674063703555</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674063703555</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +92,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[lesson1]: Created Simpson Family page with appropriate styles" />
     <MESSAGE value="[lesson1]: Added images" />
-    <option name="LAST_COMMIT_MESSAGE" value="[lesson1]: Added images" />
+    <MESSAGE value="[lesson1]: made links opened in new tab" />
+    <option name="LAST_COMMIT_MESSAGE" value="[lesson1]: made links opened in new tab" />
   </component>
 </project>

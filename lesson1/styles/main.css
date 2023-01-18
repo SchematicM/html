@@ -31,5 +31,10 @@ img{
     min-width: 200px;
     max-height: 400px;
 }
+a{
+    text-decoration: none;
+    color: blue;
+
+}
 
 
