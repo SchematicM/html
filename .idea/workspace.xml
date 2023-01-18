@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0070c4c4-f0a3-4863-806c-e187a5b6cd25" name="Changes" comment="[lesson1]: made links opened in new tab">
+    <list default="true" id="0070c4c4-f0a3-4863-806c-e187a5b6cd25" name="Changes" comment="[lesson1]: schanged &lt;a&gt;tag style">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson1/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/styles/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -41,6 +47,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/mkhoma.appwell/IdeaProjects/Courses/html&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -60,7 +67,9 @@
       <updated>1673984517313</updated>
       <workItem from="1673984518311" duration="5348000" />
       <workItem from="1674037854975" duration="17000" />
-      <workItem from="1674063611957" duration="423000" />
+      <workItem from="1674063611957" duration="823000" />
+      <workItem from="1674064815905" duration="105000" />
+      <workItem from="1674077372444" duration="2054000" />
     </task>
     <task id="LOCAL-00001" summary="[lesson1]: Created Simpson Family page with appropriate styles">
       <created>1673989167549</created>
@@ -83,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674063703555</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="[lesson1]: schanged &lt;a&gt;tag style">
+      <created>1674064286133</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674064286133</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +109,7 @@
     <MESSAGE value="[lesson1]: Created Simpson Family page with appropriate styles" />
     <MESSAGE value="[lesson1]: Added images" />
     <MESSAGE value="[lesson1]: made links opened in new tab" />
-    <option name="LAST_COMMIT_MESSAGE" value="[lesson1]: made links opened in new tab" />
+    <MESSAGE value="[lesson1]: schanged &lt;a&gt;tag style" />
+    <option name="LAST_COMMIT_MESSAGE" value="[lesson1]: schanged &lt;a&gt;tag style" />
   </component>
 </project>

@@ -1,40 +1,54 @@
-body{
-    background-image: radial-gradient(red, green, yellow);;
-}
-ul{
-    background-color: cornflowerblue;
-    border-radius: 50px;
+body {
+    background-image: radial-gradient(red, green, yellow);
 }
 
-blockquote{
+ul {
+    background-color: cornflowerblue;
+    border-radius: 50px;
+
+}
+
+blockquote {
     background-color: #eacea9;
     border-radius: 20px;
     color: blue;
+    padding: 5px;
 }
-p{
+
+p {
     background-color: aqua;
     border-radius: 10px;
-    border: darkblue;
+    padding: 20px;
 
 }
-h1,h2{
+
+h1, h2 {
     background-color: yellow;
     color: blue;
     border-radius: 30px;
-    width: 300px;
+    width: 40vw;
     text-align: center;
-
+    margin-left: 30vw;
 }
 
-img{
+img {
     max-width: 400px;
     min-width: 200px;
     max-height: 400px;
 }
-a{
+
+a {
     text-decoration: none;
     color: blue;
-
 }
+
+div {
+    display: flex;
+}
+
+.family {
+    position: center
+}
+
 
 
