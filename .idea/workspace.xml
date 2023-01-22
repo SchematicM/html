@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0070c4c4-f0a3-4863-806c-e187a5b6cd25" name="Changes" comment="[lesson2]: completed task with card 1">
-      <change afterPath="$PROJECT_DIR$/lesson2/card3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/styles/card3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/responsive.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/styles/responsive.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +52,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lesson2/images" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,6 +71,7 @@
       <workItem from="1674384688295" duration="11000" />
       <workItem from="1674384759970" duration="14571000" />
       <workItem from="1674413904531" duration="5222000" />
+      <workItem from="1674419522898" duration="2890000" />
     </task>
     <task id="LOCAL-00001" summary="[lesson1]: Created Simpson Family page with appropriate styles">
       <created>1673989167549</created>
