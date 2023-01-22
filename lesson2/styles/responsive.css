@@ -1,5 +1,5 @@
 body{
-    font-family: Beirut;
+    font-family: Beirut, serif;
     text-align: center;
     background-color: #67C9A1;
     margin: 30px;
@@ -44,6 +44,7 @@ img {
 
 h1{
     margin-bottom: 0;
+    font-weight: normal;
 }
 h2{
     margin-top: 0;
