@@ -1,0 +1,43 @@
+body{
+    background-color: #5cb6b6;
+    margin-top:30px;
+}
+h3{
+    height: 2rem;
+    color: darkorange;
+}
+.main-container {
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    row-gap: 10px;
+
+
+}
+.box{
+    width: 45%;
+    border-radius: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #fff;
+}
+
+i.fa{
+    font-size:50px;
+    color: silver;
+    width: 100%;
+    text-align: center;
+    margin:auto
+}
+
+
+.icon{
+    width: 30%;
+    display:flex;
+
+}
+
+.text{
+    width:60%;
+}

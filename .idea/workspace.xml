@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0070c4c4-f0a3-4863-806c-e187a5b6cd25" name="Changes" comment="[lesson2]: completed task with card 1">
-      <change afterPath="$PROJECT_DIR$/lesson2/card2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/styles/card2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/card3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/styles/card3.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +65,7 @@
       <workItem from="1674063611957" duration="423000" />
       <workItem from="1674384688295" duration="11000" />
       <workItem from="1674384759970" duration="14571000" />
+      <workItem from="1674413904531" duration="5222000" />
     </task>
     <task id="LOCAL-00001" summary="[lesson1]: Created Simpson Family page with appropriate styles">
       <created>1673989167549</created>
