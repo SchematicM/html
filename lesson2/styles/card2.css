@@ -1,0 +1,65 @@
+body{
+    margin: 30px;
+    font-family: "Heiti TC";
+    text-align: center;
+}
+h1{
+    font-weight: bold;
+    font-size: 33px;
+    margin-bottom: 60px;
+}
+h3{
+    height: 2rem;
+    color:red;
+}
+
+p{
+    line-height: 1rem;
+    margin-top:12px ;
+    margin-bottom: 12px;
+}
+div.text> p{
+    color: rgba(0, 0, 0, 0.35);
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items:flex-start;
+    box-sizing: border-box;
+    /*column-gap: 10px;*/
+    row-gap: 10px;
+
+}
+.text{
+    align-content: center;
+    padding: 20% 5px 10px 5px;
+    height: 80%;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    border-style: solid;
+    border-color: rgba(75, 75, 75, 0.2);
+    border-bottom-color:rgba(75, 75, 75,0.4);
+    border-right-color:rgba(75, 75, 75,0.4);
+    width:20%;
+    min-width: 160px;
+}
+
+.more{
+    background-color: #4b9f4b;
+    color: white;
+    margin: 0 15% 30px 15%;
+    height: 40px;
+    border-radius: 10px;
+}
+
+i.fa{
+    font-size:36px;
+    color: silver;
+}

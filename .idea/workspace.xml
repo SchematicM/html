@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0070c4c4-f0a3-4863-806c-e187a5b6cd25" name="Changes" comment="[lesson2]: completed task with blue blocks">
-      <change afterPath="$PROJECT_DIR$/lesson2/card1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/styles/card1.css" afterDir="false" />
+    <list default="true" id="0070c4c4-f0a3-4863-806c-e187a5b6cd25" name="Changes" comment="[lesson2]: completed task with card 1">
+      <change afterPath="$PROJECT_DIR$/lesson2/card2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/styles/card2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +64,7 @@
       <workItem from="1674037854975" duration="17000" />
       <workItem from="1674063611957" duration="423000" />
       <workItem from="1674384688295" duration="11000" />
-      <workItem from="1674384759970" duration="12006000" />
+      <workItem from="1674384759970" duration="14571000" />
     </task>
     <task id="LOCAL-00001" summary="[lesson1]: Created Simpson Family page with appropriate styles">
       <created>1673989167549</created>
@@ -94,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674390516299</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="[lesson2]: completed task with card 1">
+      <created>1674398015257</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674398015257</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +123,7 @@
     <MESSAGE value="[lesson1]: Added images" />
     <MESSAGE value="[lesson1]: made links opened in new tab" />
     <MESSAGE value="[lesson2]: completed task with blue blocks" />
-    <option name="LAST_COMMIT_MESSAGE" value="[lesson2]: completed task with blue blocks" />
+    <MESSAGE value="[lesson2]: completed task with card 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="[lesson2]: completed task with card 1" />
   </component>
 </project>
