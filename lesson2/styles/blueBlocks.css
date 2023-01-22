@@ -1,0 +1,41 @@
+body{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    row-gap: 10px;
+}
+
+div{
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    /*height: 25vw;*/
+
+}
+
+.full-width{
+    width: 100vw;
+    column-gap: 10px;
+    text-align: center;
+}
+.box{
+    background-color: #599bfd;
+}
+
+.darker{
+    background-color: #3567ab;
+    flex: 1;
+}
+.contact{
+    /*height: 50vw;*/
+    height: 400px;
+}
+
+
+
+
+
