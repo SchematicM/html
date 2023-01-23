@@ -1,5 +1,4 @@
 body{
-    margin: 30px;
     font-family: "Heiti TC", serif;
     text-align: center;
 }
@@ -24,6 +23,7 @@ div.text> p{
     line-height: 1.5rem;
 }
 .main-container {
+    margin: 30px;
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;

@@ -2,9 +2,9 @@ body{
     font-family: Beirut, serif;
     text-align: center;
     background-color: #67C9A1;
-    margin: 30px;
 }
 .main-container {
+    margin:30px;
     display:flex;
     flex-wrap: wrap;
     flex-direction: row;
