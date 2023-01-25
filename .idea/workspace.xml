@@ -5,6 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0070c4c4-f0a3-4863-806c-e187a5b6cd25" name="Changes" comment="[lesson2]: fixed colors and idea's warnings">
+      <change afterPath="$PROJECT_DIR$/lesson3/card2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/cards1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/code/demo1_selectors/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/code/demo1_selectors/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/code/demo2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/code/demo2/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/code/demo3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/code/demo3/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/code/demo4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/code/demo4/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/homework/card2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/homework/cards 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/materials/HTML 3 Селектори.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/styles/card1s.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/styles/card2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,9 +30,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
-        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -52,6 +67,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/lesson2/images" />
     </key>
@@ -71,6 +89,8 @@
       <workItem from="1674384759970" duration="14571000" />
       <workItem from="1674413904531" duration="5222000" />
       <workItem from="1674419522898" duration="6835000" />
+      <workItem from="1674499293254" duration="13000" />
+      <workItem from="1674632060574" duration="3662000" />
     </task>
     <task id="LOCAL-00001" summary="[lesson1]: Created Simpson Family page with appropriate styles">
       <created>1673989167549</created>
