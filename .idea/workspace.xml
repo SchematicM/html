@@ -4,23 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0070c4c4-f0a3-4863-806c-e187a5b6cd25" name="Changes" comment="[lesson2]: fixed colors and idea's warnings">
-      <change afterPath="$PROJECT_DIR$/lesson3/card2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/cards1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/code/demo1_selectors/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/code/demo1_selectors/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/code/demo2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/code/demo2/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/code/demo3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/code/demo3/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/code/demo4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/code/demo4/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/homework/card2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/homework/cards 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/materials/HTML 3 Селектори.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/styles/card1s.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/styles/card2.css" afterDir="false" />
+    <list default="true" id="0070c4c4-f0a3-4863-806c-e187a5b6cd25" name="Changes" comment="[lesson3]: implemented card2 home task">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/cards1.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/cards1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/styles/card1s.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/styles/cards1.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +77,7 @@
       <workItem from="1674413904531" duration="5222000" />
       <workItem from="1674419522898" duration="6835000" />
       <workItem from="1674499293254" duration="13000" />
-      <workItem from="1674632060574" duration="3662000" />
+      <workItem from="1674632060574" duration="6834000" />
     </task>
     <task id="LOCAL-00001" summary="[lesson1]: Created Simpson Family page with appropriate styles">
       <created>1673989167549</created>
@@ -155,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674426559706</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="[lesson3]: implemented card2 home task">
+      <created>1674636363564</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674636363564</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +174,7 @@
     <MESSAGE value="[lesson2]: completed task with card 1" />
     <MESSAGE value="[lesson2]: completed task with responsive design" />
     <MESSAGE value="[lesson2]: fixed colors and idea's warnings" />
-    <option name="LAST_COMMIT_MESSAGE" value="[lesson2]: fixed colors and idea's warnings" />
+    <MESSAGE value="[lesson3]: implemented card2 home task" />
+    <option name="LAST_COMMIT_MESSAGE" value="[lesson3]: implemented card2 home task" />
   </component>
 </project>
