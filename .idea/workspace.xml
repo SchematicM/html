@@ -4,18 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0070c4c4-f0a3-4863-806c-e187a5b6cd25" name="Changes" comment="[lesson3]: implemented cards1 home task">
-      <change afterPath="$PROJECT_DIR$/lesson4/advanced tasks/30 mobile website design tips.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/advanced tasks/Annotating Wireframes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/base3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/homework/adaptive base 1 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/materials/adaptive base 3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/materials/html 4.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/styles/base12.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/styles/base3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/styles/base3media.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/styles/normalize.css" afterDir="false" />
+    <list default="true" id="0070c4c4-f0a3-4863-806c-e187a5b6cd25" name="Changes" comment="[lesson4]: implemented adaptive base 3.png">
+      <change afterPath="$PROJECT_DIR$/lesson4/base1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/base2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/styles/base1media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/styles/base2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/styles/base2media.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/styles/base12.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/styles/base1.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -88,7 +84,7 @@
       <workItem from="1674499293254" duration="13000" />
       <workItem from="1674632060574" duration="7552000" />
       <workItem from="1674656716786" duration="769000" />
-      <workItem from="1674828174547" duration="13636000" />
+      <workItem from="1674828174547" duration="19850000" />
     </task>
     <task id="LOCAL-00001" summary="[lesson1]: Created Simpson Family page with appropriate styles">
       <created>1673989167549</created>
@@ -167,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674641060826</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="[lesson4]: implemented adaptive base 3.png">
+      <created>1674846205369</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1674846205369</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,6 +197,7 @@
     <MESSAGE value="[lesson2]: fixed colors and idea's warnings" />
     <MESSAGE value="[lesson3]: implemented card2 home task" />
     <MESSAGE value="[lesson3]: implemented cards1 home task" />
-    <option name="LAST_COMMIT_MESSAGE" value="[lesson3]: implemented cards1 home task" />
+    <MESSAGE value="[lesson4]: implemented adaptive base 3.png" />
+    <option name="LAST_COMMIT_MESSAGE" value="[lesson4]: implemented adaptive base 3.png" />
   </component>
 </project>
