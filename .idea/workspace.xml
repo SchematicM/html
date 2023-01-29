@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0070c4c4-f0a3-4863-806c-e187a5b6cd25" name="Changes" comment="[lesson4]: implemented adaptive Annotating Wireframes.png">
-      <change beforePath="$PROJECT_DIR$/lesson4/AnnotatingWireframes.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/AnnotatingWireframes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/styles/AnnotatingWireframes.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/styles/AnnotatingWireframes.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/styles/AnnotatingWireframes_media.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/styles/AnnotatingWireframes_media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/styles/mobile_design.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/styles/mobile_design_media.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/mobile_website_design.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/mobile_website_design.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +81,7 @@
       <workItem from="1674499293254" duration="13000" />
       <workItem from="1674632060574" duration="7552000" />
       <workItem from="1674656716786" duration="769000" />
-      <workItem from="1674828174547" duration="32986000" />
+      <workItem from="1674828174547" duration="40177000" />
     </task>
     <task id="LOCAL-00001" summary="[lesson1]: Created Simpson Family page with appropriate styles">
       <created>1673989167549</created>
@@ -180,7 +181,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674995389425</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="[lesson4]: implemented adaptive Annotating Wireframes.png">
+      <created>1674997043847</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1674997043847</updated>
+    </task>
+    <task id="LOCAL-00016" summary="[lesson4]: implemented adaptive Annotating Wireframes.png">
+      <created>1674997087898</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1674997087898</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

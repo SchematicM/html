@@ -1,0 +1,103 @@
+.bg-brown {
+    background: #676767;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+}
+
+
+.header-bar {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: space-between
+}
+
+.header-bar-logo {
+    width: 19%;
+}
+
+.header-bar-header {
+    width: 79%;
+}
+
+.content {
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    column-gap: 10px;
+}
+
+.navigation {
+    height: 70vh;
+    width: 19%;
+}
+
+.main-content {
+    width: 79%;
+    display: flex;
+    flex-direction: column;
+    position:relative;
+
+}
+
+.first-block {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 35vh;
+}
+
+.selection-intro {
+    width: 74%;
+}
+
+.ad {
+    width: 24%;
+}
+.second-block {
+    margin-top:20px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 70vh;
+}
+
+.types {
+    width: 74%;
+}
+
+.related-products {
+    width: 24%;
+}
+
+.locator-and-tools {
+    margin-top:10px;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 35vh;
+    position: absolute;
+    bottom:0vh;
+    left: -27%;
+}
+
+.box {
+    width: 97.9%;
+    height: calc((35vh - 10px)/2);
+}
+
+.footer{
+    margin-top: 20px;
+    height: 10vh;
+}
+
+
+

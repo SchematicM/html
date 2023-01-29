@@ -1,0 +1,53 @@
+@media (max-width: 600px) {
+    .header-bar-logo {
+        width: 20%;
+    }
+
+    .content {
+        margin-top:10px;
+        flex-direction: column;
+    }
+
+    .main-content {
+        width: 100%;
+    }
+
+    .navigation {
+        width: 100%;
+        height: 10vh;
+        margin-bottom: 10px;
+    }
+
+    .second-block{
+        height: 86vh;
+        margin-top:10px;
+        flex-direction: column;
+    }
+    .types{
+        width: 100%;
+        height: 50vh;
+    }
+
+    .related-products{
+        width: 100%;
+        height: 35vh;
+    }
+    .locator-and-tools{
+        flex-direction: row;
+        justify-content: space-between;
+        position: static;
+        width: 100%;
+        height: 15vh;
+    }
+
+    .box{
+        width: 49%;
+        height: 15vh;
+    }
+
+    .footer{
+        margin-top:10px;
+    }
+
+
+}
